@@ -1,0 +1,13 @@
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\bin\Debug\TABLAS_RELACIONADASVB.exe.config
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\bin\Debug\TABLAS_RELACIONADASVB.exe
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\bin\Debug\TABLAS_RELACIONADASVB.pdb
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\bin\Debug\TABLAS_RELACIONADASVB.xml
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\obj\Debug\TABLAS_RELACIONADASVB.vbprojAssemblyReference.cache
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\obj\Debug\TABLAS_RELACIONADASVB.MantenimientoProd.resources
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\obj\Debug\TABLAS_RELACIONADASVB.Resources.resources
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\obj\Debug\TABLAS_RELACIONADASVB.PRODUCTOS.resources
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\obj\Debug\TABLAS_RELACIONADASVB.vbproj.GenerateResource.cache
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\obj\Debug\TABLAS_RELACIONADASVB.vbproj.CoreCompileInputs.cache
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\obj\Debug\TABLAS_RELACIONADASVB.exe
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\obj\Debug\TABLAS_RELACIONADASVB.xml
+C:\Users\Brayan JC\source\repos\TABLAS_RELACIONADASVB\obj\Debug\TABLAS_RELACIONADASVB.pdb
